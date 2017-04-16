@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Weegee 64\Source Code\Android Projects\DigitClassifier\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="C:\Users\Weegee 64\Source Code\Android Projects\DigitClassifier\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.0_caf7874e9041450e929cfa56c054ad1e9ec28630\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Weegee 64\Source Code\Android Projects\DigitClassifier\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="C:\Users\Weegee 64\Source Code\Android Projects\DigitClassifier\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.0_3de0393b78da3cdd67df74524792ef178e962044\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Weegee 64\Source Code\Android Projects\DigitClassifier\app\libs\libandroid_tensorflow_inference_java.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="547326950573bb73d6064506e003a201045b2bd7">
+        <dex dex="C:\Users\Weegee 64\Source Code\Android Projects\DigitClassifier\app\build\intermediates\transforms\dex\debug\folders\1000\2\libandroid_tensorflow_inference_java_c15b79059a7095303244ea41bf6fe7550874500b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Weegee 64\Source Code\Android Projects\DigitClassifier\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7ae55c2ad37593f5aa822ae06d207d8a1481b53d">
+        <dex dex="C:\Users\Weegee 64\Source Code\Android Projects\DigitClassifier\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0b8e997ef5270227e48577fb01c7bc5a7aaa5334\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Weegee 64\Source Code\Android Projects\DigitClassifier\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Weegee 64\Source Code\Android Projects\DigitClassifier\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.0_f58cf2f19439cbbac333e1d56775e30f6fca229c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Weegee 64\Source Code\Android Projects\DigitClassifier\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="C:\Users\Weegee 64\Source Code\Android Projects\DigitClassifier\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.3.0_114f5bf9a44506bd728a1a4762071be87f7b14d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Weegee 64\Source Code\Android Projects\DigitClassifier\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="C:\Users\Weegee 64\Source Code\Android Projects\DigitClassifier\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.0_eb952cff9d30651ec72672dcf1e5f9539343af87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Weegee 64\Source Code\Android Projects\DigitClassifier\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="C:\Users\Weegee 64\Source Code\Android Projects\DigitClassifier\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.0_29be35148296b187197f1ad01b442b79080663ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Weegee 64\Source Code\Android Projects\DigitClassifier\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f2c37770bb71418a5d6b29ad149c4a6b51520839">
+        <dex dex="C:\Users\Weegee 64\Source Code\Android Projects\DigitClassifier\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7ae1c1fd3a986623798f7a8d6d1a26339872b6d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Weegee 64\Source Code\Android Projects\DigitClassifier\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="C:\Users\Weegee 64\Source Code\Android Projects\DigitClassifier\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.0_2e067c4d015784650235ce75f971395f9769bd36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Weegee 64\Source Code\Android Projects\DigitClassifier\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="C:\Users\Weegee 64\Source Code\Android Projects\DigitClassifier\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.0_05d43dcb950ef238fedc8b9cad49b9c069b21257\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Weegee 64\Source Code\Android Projects\DigitClassifier\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="C:\Users\Weegee 64\Source Code\Android Projects\DigitClassifier\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.0_789ccbd985b6ee7da4d1938d5f931c254b91c2bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="C:\Users\Weegee 64\Source Code\Android Projects\DigitClassifier\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.0_ced53534f39b563e23f3ea1fff8f988cc2eef87b\classes.dex" />
+    </item>
+
+</items>
