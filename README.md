@@ -7,7 +7,7 @@ and then serving that file via the Tensorflow Inference java library.
 
 ##### Example:
 
-![test2](/test2.PNG?raw=true "Digit 3")![test3](/test3.PNG?raw=true "Digit 3")
+![test2](/test2.png?raw=true "Digit 3")![test3](/test3.png?raw=true "Digit 3")
 
 App coded in **Java SE 8** with:
 - Google's [*Android SDK*](https://www.android.com/)
