@@ -34,7 +34,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="7ae55c2ad37593f5aa822ae06d207d8a1481b53d">
+        sha1="e49b03a82de1fe99222f3f45527253bf99479cb9">
         <dex dex="C:\Users\Weegee 64\Source Code\Android Projects\DigitClassifier\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0b8e997ef5270227e48577fb01c7bc5a7aaa5334\classes.dex" />
     </item>
     <item
@@ -79,7 +79,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="f2c37770bb71418a5d6b29ad149c4a6b51520839">
+        sha1="e188bc7b428b8db4c7aa8ea48a26a5a552d870c4">
         <dex dex="C:\Users\Weegee 64\Source Code\Android Projects\DigitClassifier\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7ae1c1fd3a986623798f7a8d6d1a26339872b6d6\classes.dex" />
     </item>
     <item

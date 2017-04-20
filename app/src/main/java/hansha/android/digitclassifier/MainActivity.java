@@ -80,6 +80,7 @@ public class MainActivity extends AppCompatActivity implements View.OnTouchListe
                 mDrawView.invalidate();
             }
         });
+        updateReadings(outputs);
     }
 
     public void updateReadings(float[] outputs) {
