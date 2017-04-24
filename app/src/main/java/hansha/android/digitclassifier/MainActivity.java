@@ -120,9 +120,9 @@ public class MainActivity extends AppCompatActivity implements View.OnTouchListe
         drawX = event.getX();
         drawY = event.getY();
         mDrawView.calcPos(drawX, drawY, tmpPoint);
-        float lastConvX = tmpPoint.x;
-        float lastConvY = tmpPoint.y;
-        mModel.startLine(lastConvX, lastConvY);
+        float previousX = tmpPoint.x;
+        float previousY = tmpPoint.y;
+        mModel.startLine(previousX, previousY);
     }
 
     private void processTouchMove(MotionEvent event) {
@@ -130,9 +130,9 @@ public class MainActivity extends AppCompatActivity implements View.OnTouchListe
         float y = event.getY();
 
         mDrawView.calcPos(x, y, tmpPoint);
-        float newConvX = tmpPoint.x;
-        float newConvY = tmpPoint.y;
-        mModel.addLineElem(newConvX, newConvY);
+        float newX = tmpPoint.x;
+        float newY = tmpPoint.y;
+        mModel.addLineElement(newX, newY);
 
         drawX = x;
         drawY = y;
