@@ -13,5 +13,5 @@ App coded in **Java SE 8** with:
 - Google's [*Android SDK*](https://www.android.com/)
 - Google's [*TensorflowInference*](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/java) Library
 
-Model [(src)](https://github.com/ozanerhansha/NeuralNetworks/blob/master/src/MNIST/mnist_convolutional.py) coded in **Python 3.5** with:
+Model [(src)](https://github.com/ozanerhansha/NeuralNetworks/blob/master/src/MNIST/conv/mnist_convolutional.py) coded in **Python 3.5** with:
 - Google's [*TensorFlow*](https://www.tensorflow.org/)
